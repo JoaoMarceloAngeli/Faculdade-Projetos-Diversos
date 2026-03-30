@@ -1,1 +1,0 @@
-manipulacao.Comprator_Nome
