@@ -1,0 +1,4 @@
+exclude:
+  - '**/node_modules'
+  - 'TCS/Backend/node_modules'
+  - node_modules
