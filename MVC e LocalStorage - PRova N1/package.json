@@ -1,0 +1,7 @@
+{
+  "name": "crud-tarefas",
+  "version": "1.0.0",
+  "description": "CRUD de Tarefas com MVC e localStorage",
+  "type": "module",
+  "main": "main.mjs"
+}
