@@ -1,0 +1,6 @@
+{
+  "name": "todo-mvc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simple MVC To-Do List using localStorage"
+}
