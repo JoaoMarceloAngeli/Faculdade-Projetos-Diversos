@@ -1,0 +1,56 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nomeCompleto": "Administrador",
+      "email": "admin@jmcursos.com",
+      "senhaHash": "admin123",
+      "role": "admin",
+      "dataCadastro": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "teste",
+      "descricao": "teste",
+      "id": "-lHG3z6bb00"
+    }
+  ],
+  "cursos": [
+    {
+      "titulo": "teset",
+      "descricao": "tste",
+      "idInstrutor": "1",
+      "idCategoria": "-lHG3z6bb00",
+      "nivel": "Avançado",
+      "dataPublicacao": "2026-06-11T14:13:17.152Z",
+      "totalAulas": 0,
+      "totalHoras": 1,
+      "id": "asIEwwSx0xA"
+    }
+  ],
+  "modulos": [
+    {
+      "idCurso": "asIEwwSx0xA",
+      "titulo": "teste",
+      "ordem": 1,
+      "id": "cm77K69Z1W0"
+    }
+  ],
+  "aulas": [
+    {
+      "titulo": "teste",
+      "tipoConteudo": "Vídeo",
+      "urlConteudo": "https://www.youtube.com/watch?v=aWzKb071D9o&list=PLD40851E0E52E9080",
+      "duracaoMinutos": 50,
+      "ordem": 1,
+      "idModulo": "cm77K69Z1W0",
+      "id": "fuY7YzAC81c"
+    }
+  ],
+  "matriculas": [],
+  "progressoAulas": [],
+  "assinaturas": [],
+  "pagamentos": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
